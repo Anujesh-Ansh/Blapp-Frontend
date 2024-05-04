@@ -13,7 +13,6 @@ import EditPostPage from './pages/EditPostPage';
 
 
 
-
 function App() {
   return (
     <UserContextProvider>
@@ -49,5 +48,6 @@ function App() {
     
   );
 }
+//to login, create,register,post and edit blogs
 
 export default App;
